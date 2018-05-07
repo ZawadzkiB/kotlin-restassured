@@ -1,4 +1,4 @@
-#Task 2 Test REST API
+#REST API Tests
 
 ##Running tests
 `./gradlew clean test`
